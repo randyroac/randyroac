@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Azure databricks, DOCKER, SSIS, and Postgresql
 - 💞️ I’m looking to collaborate on ETL projects
 - 📫 you can reach me on LinkedIn
+- 📫 Here is my youtube: https://youtu.be/0vwkUSYXeA
